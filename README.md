@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=180&section=header&text=Hamza%20Habib&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20LUMS%20%Pakistan&descSize=15&descColor=aaaaaa&descAlignY=60&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=CCCCCC&center=true&vCenter=true&width=580&lines=Game+development+%26+ML;C%2B%2B+%7C+C%23+%7C+%7C+Unity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=CCCCCC&center=true&vCenter=true&width=580&lines=Game+development+%26+ML;C%2B%2B+%7C+C%23+%7C+%7C+Unity+Python)](https://git.io/typing-svg)
 
 <br/>
 
