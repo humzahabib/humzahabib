@@ -20,9 +20,7 @@ struct Hamza {
     string university = "LUMS — BS Computer Science";
     string location   = "Pakistan";
     string current[]  = {
-        "CS 360 CAPS Project (React mobile app)",
-        "TA — C++ Course @ LUMS",
-        "Index Design Society — Web Manager"
+        "CS 360 CAPS Project (React mobile app)"
     };
     string building[] = {
         "Low-level display streaming tool (DRM / C++)",
@@ -87,7 +85,8 @@ TeX                ░░░░░░░░░░░░░░░░░░░░�
 | &nbsp; | Project | Description | Stack |
 |---|---------|-------------|-------|
 | 🖥️ | [**screen-share**](https://github.com/humzahabib/screen-share) | Low-level userspace display pipeline using Linux DRM to simulate and stream virtual displays | `C++` `DRM` `Linux` |
-| 🎮 | [**Time-in-Gales**](https://github.com/humzahabib/Time-in-Gales) | Narrative-driven indie game — emotional storytelling, rock aesthetic | `Unity` `C#` `ShaderLab` |
+| 🎮 | [**Ray-of-Dawn**](https://github.com/humzahabib/Ray-of-Dawn) | Narrative Driven Game, made in Unity | `Unity` `C#` | 
+| 🎮 | [**Time-in-Gales**](https://github.com/humzahabib/Time-in-Gales) | Narrative-driven indie game — emotional storytelling | `Unity` `C#` `ShaderLab` |
 | 🌆 | [**Futuristic-Rice**](https://github.com/humzahabib/Futuristic-Rice) | Cyberpunk Arch Linux + Hyprland desktop configuration | `CSS` `Hyprland` |
 | 🌐 | [**humzahabib.github.io**](https://github.com/humzahabib/humzahabib.github.io) | Personal portfolio site | `HTML` `CSS` `JS` |
 | 🎵 | [**Nightingales**](https://github.com/humzahabib/Nightingales) | Game project | `C#` `Unity` |
@@ -106,7 +105,7 @@ TeX                ░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<sub><i>"I am not afraid to keep on living. I am not afraid to walk this world alone."</i></sub>
+<sub><i>"Nothing good comes from being happy and cozy."</i></sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:111111&height=100&section=footer)
 
