@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=180&section=header&text=Hamza%20Habib&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20LUMS%20%7C%20Builder%20%7C%20Lahore%2C%20Pakistan&descSize=15&descColor=aaaaaa&descAlignY=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=180&section=header&text=Hamza%20Habib&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20LUMS%20%%20Pakistan&descSize=15&descColor=aaaaaa&descAlignY=60&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=CCCCCC&center=true&vCenter=true&width=580&lines=Game+developer+%26+systems+programmer;C%2B%2B+%7C+C%23+%7C+React+%7C+Unity;TA+%40+LUMS+%7C+Index+Design+Society;%22From+one+soul%2C+to+all+souls.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=CCCCCC&center=true&vCenter=true&width=580&lines=Game+developer+%26+ML;C%2B%2B+%7C+C%23+%7C+%7C+Unity)](https://git.io/typing-svg)
 
 <br/>
 
