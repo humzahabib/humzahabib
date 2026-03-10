@@ -20,7 +20,7 @@ struct Hamza {
     string university = "LUMS — BS Computer Science";
     string location   = "Pakistan";
     string current[]  = {
-        "CS 360 CAPS Project (React mobile app)"
+        "CS 360 CAPS Project (Android Studio)"
     };
     string building[] = {
         "Low-level display streaming tool (DRM / C++)",
