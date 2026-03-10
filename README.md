@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=180&section=header&text=Hamza%20Habib&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20LUMS%20%7C%20Builder%20%7C%20Lahore%2C%20Pakistan&descSize=15&descColor=aaaaaa&descAlignY=60&animation=twinkling)
 
-<!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=CCCCCC&center=true&vCenter=true&width=580&lines=Game+developer+%26+systems+programmer;C%2B%2B+%7C+C%23+%7C+React+%7C+Unity;TA+%40+LUMS+%7C+Index+Design+Society;%22From+one+soul%2C+to+all+souls.%22)](https://git.io/typing-svg)
 
 <br/>
@@ -20,7 +18,7 @@
 ```cpp
 struct Hamza {
     string university = "LUMS — BS Computer Science";
-    string location   = "Lahore, Pakistan";
+    string location   = "Pakistan";
     string current[]  = {
         "CS 360 CAPS Project (React mobile app)",
         "TA — C++ Course @ LUMS",
@@ -28,8 +26,8 @@ struct Hamza {
     };
     string building[] = {
         "Low-level display streaming tool (DRM / C++)",
-        "Narrative-driven indie game studio",
-        "Cyberpunk Arch Linux rice"
+        "Scheduling App for CAPS",
+        "Monochrome Arch Linux rice"
     };
     string motto = "From one soul, to all souls.";
 };
@@ -37,38 +35,28 @@ struct Hamza {
 
 ---
 
-### Tech Stack
+<!-- LANGUAGES_START -->
 
-**Languages**
+### Languages
 
-![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL%2FShaderLab-111111?style=flat-square&logo=unity&logoColor=white)
+```
+Language           Bar                              %        Bytes
+──────────────────────────────────────────────────────────────────────
+C#                 ████████████░░░░░░░░░░░░░░░░  42.3%      ...
+C++                ████████░░░░░░░░░░░░░░░░░░░░  28.1%      ...
+ShaderLab          ████░░░░░░░░░░░░░░░░░░░░░░░░  13.9%      ...
+JavaScript         ██░░░░░░░░░░░░░░░░░░░░░░░░░░   8.4%      ...
+CSS                █░░░░░░░░░░░░░░░░░░░░░░░░░░░   4.7%      ...
+Python             █░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.6%      ...
+```
 
-**Frameworks & Tools**
+<sub>Pulled live from my repos via GitHub Actions · updates daily at midnight UTC</sub>
 
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-111111?style=flat-square&logo=neovim&logoColor=white)
-
-**Environment**
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-111111?style=flat-square&logo=archlinux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-111111?style=flat-square&logo=wayland&logoColor=white)
-![Linux Kernel](https://img.shields.io/badge/DRM%2FKernel-111111?style=flat-square&logo=linux&logoColor=white)
+<!-- LANGUAGES_END -->
 
 ---
 
 ### GitHub Stats
-
-> Auto-updating cards via [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div align="center">
 
