@@ -27,7 +27,7 @@ struct Hamza {
         "Scheduling App for CAPS",
         "Monochrome Arch Linux rice"
     };
-    string motto = "From one soul, to all souls.";
+    string motto = "Just trying to find my place in the world";
 };
 ```
 
